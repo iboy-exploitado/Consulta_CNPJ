@@ -1,7 +1,5 @@
 import requests
 import os
-import json
-import simplejson
 
 os.system("cls")
 
